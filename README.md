@@ -20,13 +20,13 @@ Vue.use(require('vue-finger'))
 
 # interface
 
-v-finger:tap --- tap element
-v-finger:doubleTap --- double tap element
-v-finger:longTap --- long tap element(>750ms)
-v-finger:pressMove --- press element and drag
-v-finger:pinch --- pinch element
-v-finger:rotate --- rotate element
-v-finger:swipe --- swipe element
+- v-finger:tap --- tap element
+- v-finger:doubleTap --- double tap element
+- v-finger:longTap --- long tap element(>750ms)
+- v-finger:pressMove --- press element and drag
+- v-finger:pinch --- pinch element
+- v-finger:rotate --- rotate element
+- v-finger:swipe --- swipe element
 
 
 # demo
